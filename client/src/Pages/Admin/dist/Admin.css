@@ -1,0 +1,6 @@
+admin-home {
+  display: flex;
+}
+admin-home .adminContainer {
+  flex: 6;
+}
