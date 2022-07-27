@@ -4,6 +4,8 @@ An integration of Vr and web application for Nimble Giant Entertainment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+For the gallery component please look to this glitch.io project: (https://a-frame-360-gallery.glitch.me)
+
 ## Available Scripts
 
 In the project directory, you can run:
